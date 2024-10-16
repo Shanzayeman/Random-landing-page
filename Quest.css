@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(184, 190, 190);
+}
+
+#main{
+    /* border: 2px  solid black; */
+    
+}
+#sub{
+    /* border: 2px  solid black; */
+    width: 190vh;
+    height: 100vh;
+}
+#sub h1{
+    font-size: 40px;
+}
+.will{
+    /* border: 2px solid black; */
+    width: 60vh;
+    height: 60vh;
+    position: relative;
+    left: 360px;
+    top: 60px;
+    color:rgb(2, 71, 88) ;
+}
+.will button{
+    width: 20vh;
+    height: 6vh;
+    border-radius: 25px;
+    background-color:rgb(2, 71, 88) ;
+    color: aliceblue;
+}
+.clr:hover{
+    background-color: rgb(18, 87, 87);
+    color: black;
+}
+nav li{
+    display: inline-block;
+    color: rgb(12, 72, 87);
+    position: relative;
+    left: 800px;
+    bottom: 70px;
+    margin: 3px 8px;
+    padding: 0px 10px;
+    font-size: large;
+}
+nav li:hover{
+    color:  white;
+}
+nav h1{
+    font-family: sans-serif;
+    font-size: 35px;
+    font-weight: 500;
+    color: rgb(2, 71, 88);
+    position: relative;
+    left: 200px;
+}
+nav h1 b{
+    font-size:55px ;
+}
+#sub img{
+    border-radius: 40px;
+    height: 60vh;
+    width: 45vh;
+    position: relative;
+    left: 780px;
+    bottom: 360px;
+}
